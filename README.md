@@ -6,6 +6,8 @@
 ## 前提条件
 - Python 3.x
 - OCIアカウントとアクセス権限
+    - Document Understanding サービスのアクセス権限が必要です。
+    -  [ドキュメント理解ポリシーについて](https://docs.oracle.com/ja-jp/iaas/Content/document-understanding/using/about_document-understanding_policies.htm#about_vision_policies)を参考に権限を設定してください。
 - 適切に設定されたOCI構成ファイル（~/.oci/config）
 
 ## インストール
